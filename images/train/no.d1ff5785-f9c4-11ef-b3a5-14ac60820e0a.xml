@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>no.d1ff5785-f9c4-11ef-b3a5-14ac60820e0a.jpg</filename>
+	<path>C:\College\Study Materials\College Materials\6th Semester\Machine Vision\Project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\no.d1ff5785-f9c4-11ef-b3a5-14ac60820e0a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>252</ymin>
+			<xmax>514</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

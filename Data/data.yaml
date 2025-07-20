@@ -1,0 +1,6 @@
+train: C:/College/Study Materials/College Materials/6th Semester/Machine Vision/Projectv3/Data/train/images
+val: C:/College/Study Materials/College Materials/6th Semester/Machine Vision/Projectv3/Data/valid/images
+test: C:/College/Study Materials/College Materials/6th Semester/Machine Vision/Projectv3/Data/test/images
+
+nc: 5
+names: ['hello', 'iloveyou', 'no', 'thankyou', 'yes']

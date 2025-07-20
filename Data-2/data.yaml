@@ -1,0 +1,6 @@
+train: C:\College\Projects\MVProjectv3\Data-2\train\images
+val: C:\College\Projects\MVProjectv3\Data-2\valid\images
+test: C:\College\Projects\MVProjectv3\Data-2\test\images
+
+nc: 5
+names: ['hello', 'iloveyou', 'no', 'thankyou', 'yes']
